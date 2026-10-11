@@ -1,5 +1,3 @@
-# Комментарии
-
 Тестовое задание: список комментариев на Docker + CodeIgniter 4.
 
 Стек: PHP 8.2, MySQL 8, CI4, jQuery 3, Bootstrap 4.
